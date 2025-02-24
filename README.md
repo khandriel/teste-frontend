@@ -9,5 +9,5 @@ npm install lucide-react
 
 npm install @radix-ui/react-dialog
 
-Após instalar todos os requisitos, executar o comando:
+Após instalar todos os requisitos, executar o comando no diretório my-app:
 npm start
